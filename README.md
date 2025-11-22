@@ -24,10 +24,7 @@ These two tickers were used for the datasets, feature engineering, XGBoost train
 
 ## 🛠 Installation
 ```
-git clone https://github.com/<username>/stock-trend-predictor.git
-cd stock-trend-predictor
 pip install -r requirements.txt
-streamlit run app.py
 ```
 
 ## 🔍 Prediction Workflow
@@ -47,10 +44,4 @@ The notebook contains:
 - Add more tickers  
 - Add sentiment analysis  
 - Deploy via API  
-- Model ensembling  
-
-## 🤝 Contributing
-PRs and issues are welcome.
-
-## 📄 License
-MIT License
+- Model ensembling
